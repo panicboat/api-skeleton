@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Initialize ( at onece )
 
 ```bash
-docker-compose run app rails new . --api --force --database=mysql --skip-bundle
+docker-compose run skelton rails new . --api --force --database=mysql --skip-bundle
 ```
 
 ### Slack
