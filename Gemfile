@@ -31,5 +31,3 @@ gem 'trailblazer-rails'
 gem 'multi_json' # https://github.com/trailblazer/representable#dependencies
 gem 'reform-rails'
 gem 'faraday'
-gem 'jwt'
-gem 'json-jwt'
