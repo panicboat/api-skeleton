@@ -16,6 +16,7 @@ end
 
 group :test do
   gem 'codecov'
+  gem 'dotenv-rails'
   gem 'simplecov'
   gem 'trailblazer-test'
   gem 'webmock'
