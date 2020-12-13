@@ -3,7 +3,7 @@
 
 # api-skelton
 
-API Skelton for panicboat
+API Skelton for panicboat.
 
 # Getting Started
 
