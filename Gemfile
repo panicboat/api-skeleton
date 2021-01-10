@@ -28,8 +28,8 @@ group :production do
   gem 'oj', platform: :mri # https://github.com/aws/aws-xray-sdk-ruby#installing
 end
 
-gem 'panicboat', path: '/app/engine'
-# gem 'panicboat', git: 'https://github.com/panicboat/api-engine'
+# gem 'panicboat', path: '/app/engine'
+gem 'panicboat', git: 'https://github.com/panicboat/api-engine'
 gem 'faraday'
 gem 'multi_json' # https://github.com/trailblazer/representable#dependencies
 gem 'reform-rails'
